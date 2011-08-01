@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_view_text"
+          android:icon="@drawable/ic_menu_phone"
+          android:title="Text"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/menu_view_web"
+          android:icon="@drawable/ic_menu_monitor"
+          android:title="Full"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/menu_view_comments"
+          android:icon="@drawable/ic_menu_dialog"
+          android:title="Comments"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/menu_view_external"
+          android:icon="@null"
+          android:title="Open in Browser"
+          android:showAsAction="never|withText" />
+    <item android:id="@+id/menu_toggle_listing"
+          android:icon="@null"
+          android:title="Toggle Listing"
+          android:showAsAction="never|withText" />
+</menu>

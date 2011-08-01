@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="HackerNewsTheme" parent="android:style/Theme.Holo.Light">
+  </style>
+
+  
+    <style name="customActionBarTabStyle">
+        <item name="android:background">@color/lightOrange</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+    </style>
+
+    <style name="customActionBarTabBarStyle">
+        <item name="android:background">@color/lightOrange</item>
+    </style>
+  
+</resources>
