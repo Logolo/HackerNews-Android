@@ -6,7 +6,8 @@ It uses the API from api.ihackernews.com to grab the stories.
 Pretty Pictures
 ===============
 ![Image 1](http://i.imgur.com/GjLXg.jpg "Landscape View")
-![Image 2](http://i.imgur.com/sm1wI.jpg "Portrait View")
+
+More [here](http://imgur.com/a/QabF5).
 
 Features
 ========
