@@ -3,6 +3,11 @@ Overview
 This is a simple HackerNews reader for Android Honeycomb tablets.
 It uses the API from api.ihackernews.com to grab the stories.
 
+Pretty Pictures
+===============
+![Image 1](http://i.imgur.com/GjLXg.jpg "Landscape View")
+![Image 2](http://i.imgur.com/sm1wI.jpg "Portrait View")
+
 Features
 ========
 
